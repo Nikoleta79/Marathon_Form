@@ -1,14 +1,21 @@
 # Marathon_Form ![runmarathon](https://github.com/Nikoleta79/Marathon_Form/assets/141028635/0e4cc607-8603-45eb-9bcd-b930da76091b)
 Race Registration Form
+
 Welcome to the Race Registration Form project! This HTML code represents a simple web form designed to collect information for race registration. Participants can provide their personal details, select a race, choose a running date, and more. This README provides an overview of the code structure and how to use the form.
 
 Table of Contents
+
 Introduction
+
 Usage
+
 Form Elements
 Contributing
+
 License
+
 Usage
+
 To use this form, follow these steps:
 
 Clone the repository to your local machine.
